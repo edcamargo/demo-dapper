@@ -1,0 +1,17 @@
+C:\Projetos\demo-dapper\src\Dapper.InfraStructure.Ioc\bin\Debug\netcoreapp3.1\Dapper.InfraStructure.Ioc.deps.json
+C:\Projetos\demo-dapper\src\Dapper.InfraStructure.Ioc\bin\Debug\netcoreapp3.1\Dapper.InfraStructure.Ioc.dll
+C:\Projetos\demo-dapper\src\Dapper.InfraStructure.Ioc\bin\Debug\netcoreapp3.1\Dapper.InfraStructure.Ioc.pdb
+C:\Projetos\demo-dapper\src\Dapper.InfraStructure.Ioc\bin\Debug\netcoreapp3.1\Dapper.Domain.Core.dll
+C:\Projetos\demo-dapper\src\Dapper.InfraStructure.Ioc\bin\Debug\netcoreapp3.1\Dapper.Domain.dll
+C:\Projetos\demo-dapper\src\Dapper.InfraStructure.Ioc\bin\Debug\netcoreapp3.1\Dapper.InfraStructure.Data.dll
+C:\Projetos\demo-dapper\src\Dapper.InfraStructure.Ioc\bin\Debug\netcoreapp3.1\Dapper.Domain.pdb
+C:\Projetos\demo-dapper\src\Dapper.InfraStructure.Ioc\bin\Debug\netcoreapp3.1\Dapper.InfraStructure.Data.pdb
+C:\Projetos\demo-dapper\src\Dapper.InfraStructure.Ioc\bin\Debug\netcoreapp3.1\Dapper.Domain.Core.pdb
+C:\Projetos\demo-dapper\src\Dapper.InfraStructure.Ioc\obj\Debug\netcoreapp3.1\Dapper.InfraStructure.Ioc.csproj.AssemblyReference.cache
+C:\Projetos\demo-dapper\src\Dapper.InfraStructure.Ioc\obj\Debug\netcoreapp3.1\Dapper.InfraStructure.Ioc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\demo-dapper\src\Dapper.InfraStructure.Ioc\obj\Debug\netcoreapp3.1\Dapper.InfraStructure.Ioc.AssemblyInfoInputs.cache
+C:\Projetos\demo-dapper\src\Dapper.InfraStructure.Ioc\obj\Debug\netcoreapp3.1\Dapper.InfraStructure.Ioc.AssemblyInfo.cs
+C:\Projetos\demo-dapper\src\Dapper.InfraStructure.Ioc\obj\Debug\netcoreapp3.1\Dapper.InfraStructure.Ioc.csproj.CoreCompileInputs.cache
+C:\Projetos\demo-dapper\src\Dapper.InfraStructure.Ioc\obj\Debug\netcoreapp3.1\Dapper.InfraStructure.Ioc.csproj.CopyComplete
+C:\Projetos\demo-dapper\src\Dapper.InfraStructure.Ioc\obj\Debug\netcoreapp3.1\Dapper.InfraStructure.Ioc.dll
+C:\Projetos\demo-dapper\src\Dapper.InfraStructure.Ioc\obj\Debug\netcoreapp3.1\Dapper.InfraStructure.Ioc.pdb

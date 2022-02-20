@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Sb7mmze9ytbBISfRQkzf6mhVtI2ZLNpLFc4tvt9sWP7puID6BvdNTfkjfyjaYE3TiBjKGMO4JdyMeiFFppj0A==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\demo-dapper\\src\\Dapper.Domain\\Dapper.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Edwin\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

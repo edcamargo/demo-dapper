@@ -1,0 +1,10 @@
+C:\Projetos\demo-dapper\src\Dapper.Domain\bin\Debug\netcoreapp3.1\Dapper.Domain.deps.json
+C:\Projetos\demo-dapper\src\Dapper.Domain\bin\Debug\netcoreapp3.1\Dapper.Domain.dll
+C:\Projetos\demo-dapper\src\Dapper.Domain\bin\Debug\netcoreapp3.1\Dapper.Domain.pdb
+C:\Projetos\demo-dapper\src\Dapper.Domain\obj\Debug\netcoreapp3.1\Dapper.Domain.csproj.AssemblyReference.cache
+C:\Projetos\demo-dapper\src\Dapper.Domain\obj\Debug\netcoreapp3.1\Dapper.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\demo-dapper\src\Dapper.Domain\obj\Debug\netcoreapp3.1\Dapper.Domain.AssemblyInfoInputs.cache
+C:\Projetos\demo-dapper\src\Dapper.Domain\obj\Debug\netcoreapp3.1\Dapper.Domain.AssemblyInfo.cs
+C:\Projetos\demo-dapper\src\Dapper.Domain\obj\Debug\netcoreapp3.1\Dapper.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\demo-dapper\src\Dapper.Domain\obj\Debug\netcoreapp3.1\Dapper.Domain.dll
+C:\Projetos\demo-dapper\src\Dapper.Domain\obj\Debug\netcoreapp3.1\Dapper.Domain.pdb

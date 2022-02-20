@@ -1,0 +1,15 @@
+C:\Projetos\demo-dapper\src\Dapper.InfraStructure.Data\bin\Debug\netcoreapp3.1\Dapper.InfraStructure.Data.deps.json
+C:\Projetos\demo-dapper\src\Dapper.InfraStructure.Data\bin\Debug\netcoreapp3.1\Dapper.InfraStructure.Data.dll
+C:\Projetos\demo-dapper\src\Dapper.InfraStructure.Data\bin\Debug\netcoreapp3.1\Dapper.InfraStructure.Data.pdb
+C:\Projetos\demo-dapper\src\Dapper.InfraStructure.Data\bin\Debug\netcoreapp3.1\Dapper.Domain.Core.dll
+C:\Projetos\demo-dapper\src\Dapper.InfraStructure.Data\bin\Debug\netcoreapp3.1\Dapper.Domain.dll
+C:\Projetos\demo-dapper\src\Dapper.InfraStructure.Data\bin\Debug\netcoreapp3.1\Dapper.Domain.Core.pdb
+C:\Projetos\demo-dapper\src\Dapper.InfraStructure.Data\bin\Debug\netcoreapp3.1\Dapper.Domain.pdb
+C:\Projetos\demo-dapper\src\Dapper.InfraStructure.Data\obj\Debug\netcoreapp3.1\Dapper.InfraStructure.Data.csproj.AssemblyReference.cache
+C:\Projetos\demo-dapper\src\Dapper.InfraStructure.Data\obj\Debug\netcoreapp3.1\Dapper.InfraStructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\demo-dapper\src\Dapper.InfraStructure.Data\obj\Debug\netcoreapp3.1\Dapper.InfraStructure.Data.AssemblyInfoInputs.cache
+C:\Projetos\demo-dapper\src\Dapper.InfraStructure.Data\obj\Debug\netcoreapp3.1\Dapper.InfraStructure.Data.AssemblyInfo.cs
+C:\Projetos\demo-dapper\src\Dapper.InfraStructure.Data\obj\Debug\netcoreapp3.1\Dapper.InfraStructure.Data.csproj.CoreCompileInputs.cache
+C:\Projetos\demo-dapper\src\Dapper.InfraStructure.Data\obj\Debug\netcoreapp3.1\Dapper.InfraStructure.Data.csproj.CopyComplete
+C:\Projetos\demo-dapper\src\Dapper.InfraStructure.Data\obj\Debug\netcoreapp3.1\Dapper.InfraStructure.Data.dll
+C:\Projetos\demo-dapper\src\Dapper.InfraStructure.Data\obj\Debug\netcoreapp3.1\Dapper.InfraStructure.Data.pdb
